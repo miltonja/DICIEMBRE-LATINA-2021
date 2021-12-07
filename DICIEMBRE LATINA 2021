@@ -1,6 +1,12 @@
 #EXTINF3U
-
-
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.postimg.cc/nhsRCqM0/MTV-LATINO-MODIF.png",MTV Latino
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96d351652631e36d4331f/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=965&deviceId=5cf96d351652631e36d4331f&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:hlscat.com
+#EXTINF:-1 group-title="Samsung TV Plus" tvg-logo="https://i.postimg.cc/0ymNQCXG/RCN-MAS.png",RCN Más
+https://933be29cc78d4056abd00e0743138931.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Roku_RCNMas/playlist.m3u8?ads.wurl_channel=926&ads.wurl_name=RCNMas&ads.coppa=false&ads.bmodel=bm1&ads.channelStore=us&ads.content=9bebc5fe01e3531c8c73aa34b89a2fd0&ads.content_rating=TVPG&ads.tags=cat-spanish-language&ads.content_type=livefeed&ads.device_lang=ROKU_ADS_LOCALE&ads.genre=ROKU_ADS_CONTENT_GENRE&ads.is_lat=1&ads.platform=web&ads.studio_id=latv&ads.rdid=67a4e34f-bc00-53a7-808e-817453df25bc&ads.unlocked=UNLOCKED&ads.ua=Mozilla%2F5.0+%28Linux%3B+Android+6.0%3B+Nexus+5+Build%2FMRA58N%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F92.0.4515.131+Mobile+Safari%2F537.36&is_lat=1&bmodel=bm1&content=9bebc5fe01e3531c8c73aa34b89a2fd0&platform=web&tags=cat-spanish-language&coppa=false&content_type=livefeed&rdid=67a4e34f-bc00-53a7-808e-817453df25bc&genre=ROKU_ADS_CONTENT_GENRE&content_rating=TVPG&studio_id=latv&channel_id=151908&channelStore=us
+#EXTINF: -1 tvg-logo = "https://i.imgur.com/yTfde9d.png" group-title = "Internacionales", Telemundo 40 Arizona | SD | Estados Unidos
+https://m3u-editor.com/serve/d5603ab0-cff4-11eb-be13-2f73e5948e69/351075915
+#EXTINF:-1 group-title="Samsung TV Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Logotipo_de_Televisa_%282001-2016%29.png",Televisa (Italy)
+https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XvySKs51/ESTRELLA-TV3.png" group-title="INTERNACIONAL", ESTRELLA NEWS
 https://estrellanews-plex.amagi.tv/amRdirect/us_privacy=1---&did=55b5df5c-bf4f-509e-9e4f-8fcaddc6819d&dnt=0&X-Plex-Token=jt_tEBoUKZ3x61zvGrji&channelId=60089d97f682a3002c34829b/hls/amagi_hls_data_plexAAAAA-estrellanews-plex/CDN/768x432_1425600/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XvySKs51/ESTRELLA-TV3.png" group-title="INTERNACIONAL", ESTRELLA NEWS
@@ -89,6 +95,8 @@ https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
 https://directes-tv-int.ccma.cat/int/ngrp:324_web/chunklist_b1728000.m3u8
 #EXTINF:-1 group-title="Int. América" tvg-logo="https://tvazteca.brightspotcdn.com/03/74/823bf90340f682d157fcbf4bae48/logo-512x142-adn40-a001.png",ADN40 Mexico
 https://pubads.g.doubleclick.net/ssai/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://i.postimg.cc/CK75SCFL/Global-Got-Talent-800x800.png",Global Got Talent
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokugottalentglobal/CDN/playlist.m3u8
 #EXTINF:-1 group-title="MUSICA" tvg-logo="https://i.postimg.cc/HkYnf4n6/RE7MODIF.png",RE7
 https://vdo.mivideo.pro:3446/stream/play.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Moovimex.us" tvg-name="Moovimex" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/mty0mgJ.jpg" group-title="Movies",Moovimex (720p)
@@ -129,7 +137,8 @@ https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
 https://cloud2.streaminglivehd.com/8098/8098/.m3u8
 #EXTINF:-1 tvg-id="108684" tvg-name="Telefe Rosario" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Telefe_Rosario_%282018%29.png", Telefe Rosario
 http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8?PlaylistM3UCL
-
+#EXTINF:-1  tvg-logo="https://www.foromedios.com/uploads/gallery/album_2/gallery_1157_2_72391.png",Mi Gente TV (720p) [Not 24/7]
+https://hvtrafico.ddns.net/migente720/migente720.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/26X2dkgH/Orbita-Tv-MODIF.png" group-title="El Salvador", Orbita TV 25 | SD
 https://5dcabf026b188.streamlock.net/orbitatv/livestream/.m3u8
 #EXTINF:-1 tvg-id="47" tvg-name="CSTV" tvg-logo="https://www.m3u.cl/logo/47_CSTV.png", CSTV * | CL
