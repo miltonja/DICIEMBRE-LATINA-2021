@@ -1,4 +1,6 @@
 #EXTINF3U
+#EXTINF:-1group-title="Entertainment"  tvg-logo="https://i.postimg.cc/J0WfQwJg/EURO-90-CHANNEL-ESP.png",Euro 90 Channel
+https://ssl4.radyotvonline.com/e90tv/e90tvlive/playlist.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-logo="https://i.postimg.cc/nhsRCqM0/MTV-LATINO-MODIF.png",MTV Latino
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96d351652631e36d4331f/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=965&deviceId=5cf96d351652631e36d4331f&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:hlscat.com
 #EXTINF:-1 group-title="Samsung TV Plus" tvg-logo="https://i.postimg.cc/0ymNQCXG/RCN-MAS.png",RCN Más
