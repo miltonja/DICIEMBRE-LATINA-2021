@@ -55,7 +55,7 @@ https://stmv.panel.grupolimalive.com/cinperu/cinperu/playlist.m3u8?PlaylistM3UCL
 https://v4.tustreaming.cl/retroplaytv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="AndesTelevisión.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/CsW4Op8.png" group-title="Local",Andes Televisión (Sicusani) [Not 24/7]
 https://stmv1.voxhdnet.com/tvsicuani/tvsicuani/playlist.m3u8
-#EXTINF: -1 tvg-logo = "https://www.m3u.cl/logo/1015_Planetatv_Kids.png" group-title = "CINE Y SERIES", PLANETATV MOVIES
+#EXTINF: -1 tvg-logo = "https://i.postimg.cc/d3Q92Gvb/PLANETA-TV-HD-ESP.png" group-title = "CINE Y SERIES", PLANETATV MOVIES
 https://mediacpstreamchile.com:1936/8140/8140/playlist.m3u8
 #EXTINF:-1 group-title="CENTRO" tvg-logo="https://i.ibb.co/rcktk9x/fm-estrella-tv.png",Estrella Tv Santa Fe
 https://59537faa0729a.streamlock.net:443/estrellaproducciones/estrellaproducciones/playlist.m3u8
