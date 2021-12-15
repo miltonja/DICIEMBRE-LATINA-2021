@@ -61,7 +61,7 @@ https://mediacpstreamchile.com:1936/8140/8140/playlist.m3u8
 https://59537faa0729a.streamlock.net:443/estrellaproducciones/estrellaproducciones/playlist.m3u8
 #EXTINF:-1 group-title="Rep. Dominicana" tvg-logo="https://i.postimg.cc/65DXwqT2/VISION-NDV1.png",Vision NDV | HD | Santiago
 https://cloudflare.streamgato.us:3171/live/visionndvlive.m3u8
-#EXTINF:-1 group-title="Local" tvg-logo="https://graph.facebook.com/PlanetaTeleInformativo/picture?width=320&height=320",Planeta TV Moyobamba (720p)
+#EXTINF:-1 group-title="Local" tvg-logo="https://i.postimg.cc/d3Q92Gvb/PLANETA-TV-HD-ESP.png",Planeta TV Moyobamba (720p)
 https://live.obslivestream.com/planetatvmux/index.m3u8
 #EXTINF:-1 group-title="DOMINICAN REPUBLIC" tvg-logo="https://i.postimg.cc/s2BMXGQ2/MICROVISION-MODIF.png",Microvision 10
 http://190.103.183.24:1935/live/MicroHD/chunklist.m3u8
