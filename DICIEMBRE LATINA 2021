@@ -65,6 +65,8 @@ https://cloudflare.streamgato.us:3171/live/visionndvlive.m3u8
 https://live.obslivestream.com/planetatvmux/index.m3u8
 #EXTINF:-1 group-title="DOMINICAN REPUBLIC" tvg-logo="https://i.postimg.cc/s2BMXGQ2/MICROVISION-MODIF.png",Microvision 10
 http://190.103.183.24:1935/live/MicroHD/chunklist.m3u8
+#EXTINF:-1 tvg-id="ATMTelevision.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/6pLvq9Mb/atm-HD-ESP.png" group-title="Local",ATM Televisión (Apurimac) (720p) [Not 24/7]
+https://v4.tustreaming.cl/atmtv/index.m3u8
 #EXTINF:-1group-title="CHILE"  tvg-logo="https://i.postimg.cc/tRsTP33M/PUNTA-CANA-TV-ESP.png" ,Punta Cana TV (720p)
 https://cdn4.hostlagarto.com:8081/static/puntacanatv/playlist.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/G3JxSPBR/TELEMAX-HERMOSILLO.png",TELEMAX
