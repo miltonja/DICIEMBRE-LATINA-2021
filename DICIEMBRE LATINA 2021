@@ -105,6 +105,8 @@ https://pubads.g.doubleclick.net/ssai/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokugottalentglobal/CDN/playlist.m3u8
 #EXTINF:-1 group-title="MUSICA" tvg-logo="https://i.postimg.cc/HkYnf4n6/RE7MODIF.png",RE7
 https://vdo.mivideo.pro:3446/stream/play.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MÉXICO" tvg-id="666" tvg-name="Milenio TV" tvg-logo="https://www.m3u.cl/logo/666_Milenio_TV.png", Milenio TV  | MX
+http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Moovimex.us" tvg-name="Moovimex" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/mty0mgJ.jpg" group-title="Movies",Moovimex (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokumoovimex/CDN/playlist.m3u8
 #EXTINF:-1  group-title="MUSICA" tvg-logo="https://i.postimg.cc/85jRDjcf/VEVO-LATINO-MOD.png",Vevo Latino
