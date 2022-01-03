@@ -1,6 +1,4 @@
 #EXTINF3U
-#EXTINF:-1group-title="Entertainment"  tvg-logo="https://i.postimg.cc/J0WfQwJg/EURO-90-CHANNEL-ESP.png",Euro 90 Channel
-https://ssl4.radyotvonline.com/e90tv/e90tvlive/playlist.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-logo="https://i.postimg.cc/nhsRCqM0/MTV-LATINO-MODIF.png",MTV Latino
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96d351652631e36d4331f/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=965&deviceId=5cf96d351652631e36d4331f&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:hlscat.com
 #EXTINF:-1 group-title="Samsung TV Plus" tvg-logo="https://i.postimg.cc/0ymNQCXG/RCN-MAS.png",RCN Más
@@ -53,7 +51,7 @@ https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8?PlaylistM3UCL
 http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES" tvg-logo="http://www.m3u.cl/logo/116087_Cine_Club.png",CINE CLUB
 https://stmv.panel.grupolimalive.com/cinperu/cinperu/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1055" tvg-name="Mega Cine TV" tvg-logo="https://www.m3u.cl/logo/1055_Mega_Cine_TV.png", Mega Cine TV | DO
+#EXTINF:-1 tvg-id="1055" tvg-name="Mega Cine TV" tvg-logo="https://i.postimg.cc/Znh7NwYf/Mega-Cine-TV-esp.png",MEGA CINE TV /HD/
 https://cdn1.streamgato.us/megacinetv/megacinetv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="897" tvg-name="Retro Play TV" tvg-logo="https://i.postimg.cc/26s1cHpk/Retro-Play-TV-MODIF.png", Retro Play TV * | CL
 https://v4.tustreaming.cl/retroplaytv/index.m3u8?PlaylistM3UCL
