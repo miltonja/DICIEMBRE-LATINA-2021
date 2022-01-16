@@ -18,7 +18,7 @@ https://spt-comedias-1-us.samsung.wurl.tv/1200.m3u8
 #EXTINF:-1 group-title="Cine y Series" tvg-logo="https://i.postimg.cc/W4gX4wN5/SONY_COMPETENCIAS_SAMSUMG.png",Sony Competencias | HD | Estados Unidos
 https://spt-competencias-1-us.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/g0JWhF1n/REC-ONLINE1.png" tvg-country="UNSORTED" tvg-url="" group-title="",Rec Online TV
-https://master.tucableip.com/reconline/live/video.m3u8?_=1
+https://master.tucableip.com/reconline/live/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RFY3K119/Estrella-TV-MODIF.png" group-title="ESTILO DE VIDA 1", Estrella TV
 https://estrellatv-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://i.postimg.cc/90n4my14/logo-miami-tv.png",MIAMI TV
