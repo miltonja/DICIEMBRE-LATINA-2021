@@ -1,6 +1,10 @@
 #EXTINF3U
 #EXTINF:-1 tvg-id="RelaxingRain.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/USiqGyp.jpg" group-title="",Relaxing Rain (720p)
 https://a.jsrdn.com/broadcast/76381deeda/+0000/c.m3u8
+#EXTINF:-1 group-title="USA" tvg-logo="https://images.pluto.tv/channels/60c25ec6da6d6600074233a8/colorLogoPNG.png",Acapulco Shore
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60c25ec6da6d6600074233a8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="USA" tvg-logo="https://images.pluto.tv/channels/5cf96d351652631e36d4331f/colorLogoPNG.png",MTV en español
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cf96d351652631e36d4331f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="Undefined" tvg-logo="https://i.postimg.cc/nhsRCqM0/MTV-LATINO-MODIF.png",MTV Latin
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96d351652631e36d4331f/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=965&deviceId=5cf96d351652631e36d4331f&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:hlscat.com
 #EXTINF:-1 group-title="Samsung TV Plus" tvg-logo="https://i.postimg.cc/0ymNQCXG/RCN-MAS.png",RCN Más
