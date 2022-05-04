@@ -1,4 +1,6 @@
 #EXTINF3U
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DwgfL45r/BAYRES.png" group-title="AMBA", Bayres TV
+https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 #EXTINF:-1 tvg-id="XHJKTDT.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/1.1.png" group-title="Undefined",Azteca Uno (XHJK-TDT) (480p) [Not 24/7]
 http://190.122.96.187:8888/http/002
 #EXTINF:-1 tvg-id="RelaxingRain.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/USiqGyp.jpg" group-title="",Relaxing Rain (720p)
