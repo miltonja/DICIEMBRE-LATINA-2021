@@ -372,11 +372,11 @@ http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-petcollective/CDN/1280x720_5000000/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/sBmqwwQ.png",Fox Life
 https://sireclipsfoxru-vh.akamaihd.net/i/mpx/FIC_SIRE_Fox/831/336/Sneak_Peek~~111704~12~21~en~~1_ru_42787397,100_mp4_video_1920x0_4016000_primary_audio_6,099_mp4_video_1280x0_2432000_primary_audio_5,098_mp4_video_1280x0_1800000_primary_audio_4,097_mp4_video_960x0_1200000_primary_audio_3,096_mp4_video_640x0_568000_primary_audio_2,095_mp4_video_480x0_400000_primary_audio_1,.mp4.csmil/master.m3u8
-#EXTINF:-1 group-title="MEXICO" tvg-logo="https://radioytvmexiquense.mx/wp-content/uploads/2019/10/200X100-MX-1.png",MEXIQUENSE TV /HD
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.postimg.cc/g08jKfRY/mexiquense.png",MEXIQUENSE TV /HD
 https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yOS8yMDIwIDEyOjAzOjA4IEFNJmhhc2hfdmFsdWU9SzRBYWVRSjY4WGMyeWZZVDZYdHExQT09JnZhbGlkbWludXRlcz01JmlkPQ==
 #EXTINF:-1 group-title="NOTICIAS" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/07/Rai-News24-in-diretta-live.png",RAI NEWS /HD/
 http://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=0000001
-#EXTINF:-1 group-title="CINE Y SERIES" tvg-logo="https://radioextremacr.com/img/logo.png",Extrema TV
+#EXTINF:-1 group-title="CINE Y SERIES" tvg-logo="https://i.postimg.cc/gjJX5YNV/EXTREMA-TV.png",Extrema TV
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/7ZNtQXpw/RED-FUEGUINA.png",Red Fueguina Radio
 https://inliveserver.com:1936/11012/11012/playlist.m3u8?PlaylistM3UCL
