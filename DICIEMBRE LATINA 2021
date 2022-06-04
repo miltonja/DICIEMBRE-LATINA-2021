@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Undefined" tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/1.1.png",Azteca Uno (XHJK-TDT) (480p) [Not 24/7]
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.postimg.cc/yNFxS8hw/AZTECA-UNO-SEP.png",Azteca Uno (XHJK-TDT) (480p) [Not 24/7]
 http://190.122.96.187:8888/http/002
 #EXTINF:-1  tvg-logo="https://i.imgur.com/USiqGyp.jpg",Relaxing Rain (720p)
 https://a.jsrdn.com/broadcast/76381deeda/+0000/c.m3u8
