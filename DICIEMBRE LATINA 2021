@@ -1,6 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="AMBA" tvg-logo="https://i.postimg.cc/DwgfL45r/BAYRES.png",Bayres TV
-https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
+
 #EXTINF:-1 group-title="Undefined" tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/1.1.png",Azteca Uno (XHJK-TDT) (480p) [Not 24/7]
 http://190.122.96.187:8888/http/002
 #EXTINF:-1  tvg-logo="https://i.imgur.com/USiqGyp.jpg",Relaxing Rain (720p)
@@ -133,19 +132,17 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/611b87946b7f420007c223
 http://68.235.35.243:1935/lamegamundial/lamegamundial2/playlist.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES" tvg-logo="https://i.postimg.cc/ydzKcsMk/zptvmodif.png",ZPTV
 https://srv3.zcast.com.br/juancarlos9451/juancarlos9451/playlist.m3u8
-#EXTINF:-1 group-title="USA;En Español" tvg-logo="https://i.postimg.cc/sgWs37fJ/BEIN-SPORTS-EXTRA-ESPA-OL.png",beIN SPORTS XTRA en español
+#EXTINF:-1 group-title="USA;En Español" tvg-logo="https://i.postimg.cc/sgWs37fJ/BEIN-SPORTS-EXTRA-ESPA-OL.png",BEIN SPORTS XTRA en español
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60492fdd9989d30007ccd30a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="LOCALES 3" tvg-logo="https://i.postimg.cc/DZg2Fzbb/NEOX-SALTA.png",NEOX TV SALTA
-https://streamcasthd.com:19360/sonicaargentina/sonicaargentina.m3u8
 #EXTINF:-1 group-title="Guatemala" tvg-logo="https://i.imgur.com/cGYcgBL.png",Tele Costa Escuintla | SD
 https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
-#EXTINF:-1 group-title="MUSICA" tvg-logo="https://xlmusica.com/wp-content/uploads/2020/11/XLTVWEB.png",XL MUSICA
+#EXTINF:-1 group-title="MUSICA" tvg-logo="https://i.postimg.cc/KYm4pBQP/XL-MUSICA-TELEVISION.png",XL MUSICA
 https://cloud2.streaminglivehd.com/8098/8098/.m3u8
-#EXTINF:-1  tvg-logo="https://www.foromedios.com/uploads/gallery/album_2/gallery_1157_2_72391.png",Mi Gente TV (720p) [Not 24/7]
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/mDnPb5yL/MI-GENTE-TV.png",Mi Gente TV (720p) [Not 24/7]
 https://hvtrafico.ddns.net/migente720/migente720.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="BestCableMasCumbia.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/pT6Y2Kq2/CUMBIA-TV-2.png"Music", Más Cumbia (720p) [Not 24/7]
+#EXTINF:-1 group-title="MUSICA"tvg-logo="https://i.postimg.cc/pT6Y2Kq2/CUMBIA-TV-2.png"Music", MAS CUMBIA
 https://tv.inka.net.pe/mascumbiatvonline/mascumbiatvonline/index.m3u8
-#EXTINF:-1 tvg-id="BestCableMusic.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/8kBD7wLX/BEST-CABLE-MUSIC-1.png"Music",Best Cable Music (720p) [Not 24/7]
+#EXTINF:-1 group-title="MUSICA" tvg-logo="https://i.postimg.cc/8kBD7wLX/BEST-CABLE-MUSIC-1.png"Music",BEST CABLE MUSIC
 https://tv.inka.net.pe/bestcablemusic/bestcablemusic/index.m3u8
 #EXTINF:-1 tvg-id="FuegoTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/028737nj/FUEGO-TV-LIMA-ESP.png" group-title="Undefined",FuegoTV (Lima) (720p) [Not 24/7]
 http://190.108.83.142:8000/play/a003/index.m3u8
