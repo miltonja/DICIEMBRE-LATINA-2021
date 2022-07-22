@@ -30,8 +30,8 @@ https://estrellatv-roku.amagi.tv/playlist.m3u8
 https://59ec5453559f0.streamlock.net/jennyforyou/jennyforyou/.m3u8
 #EXTINF:-1 group-title="INTERNACIONAL" tvg-logo="https://pbs.twimg.com/media/EJV68VtXUAAM3fs.png",Hollywire (Mexico)
 https://hollywire-samsung-2-mx.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES" tvg-logo="https://i.postimg.cc/yNbnNYgy/WOW-TV-ESP.png",WOW
-https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES" tvg-logo="https://w7.pngwing.com/pngs/130/1021/png-transparent-movie-logo-movie-logo-film-tape-cinema.png",WOW
+https://videostreaming.cloudserverlatam.com/cloudservertv/cloudservertv/playlist.m3u8
 #EXTINF:-1 group-title="EL SALVADOR" tvg-logo="https://i.imgur.com/lUYKEDE.png",Wow TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i0.wp.com/www.gdm.do/wp-content/uploads/2020/01/Logo-GDM.png?w=696&ssl=1",GDM TELEVISION
