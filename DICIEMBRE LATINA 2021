@@ -30,7 +30,7 @@ https://estrellatv-roku.amagi.tv/playlist.m3u8
 https://59ec5453559f0.streamlock.net/jennyforyou/jennyforyou/.m3u8
 #EXTINF:-1 group-title="INTERNACIONAL" tvg-logo="https://pbs.twimg.com/media/EJV68VtXUAAM3fs.png",Hollywire (Mexico)
 https://hollywire-samsung-2-mx.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES" tvg-logo="https://w7.pngwing.com/pngs/130/1021/png-transparent-movie-logo-movie-logo-film-tape-cinema.png",WOW
+#EXTINF:-1 group-title="CINE Y SERIES" tvg-logo="https://w7.pngwing.com/pngs/130/1021/png-transparent-movie-logo-movie-logo-film-tape-cinema.png",PELICULAS
 https://videostreaming.cloudserverlatam.com/cloudservertv/cloudservertv/playlist.m3u8
 #EXTINF:-1 group-title="EL SALVADOR" tvg-logo="https://i.imgur.com/lUYKEDE.png",Wow TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
@@ -74,8 +74,8 @@ https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/chunks.m3u8
 https://v4.tustreaming.cl/retroplaytv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/CsW4Op8.png",Andes Televisión (Sicusani) [Not 24/7]
 https://stmv1.voxhdnet.com/tvsicuani/tvsicuani/playlist.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES" tvg-logo="https://i.postimg.cc/Ssywmmnj/planetatv.png",PLANETA TV MOVIES
-https://mediacpstreamchile.com:1936/8140/8140/playlist.m3u8
+#EXTINF:-1 group-title="PELICULAS" tvg-logo="https://i.postimg.cc/RVvmv7DN/planetatv-movies.png",PLANETA MOVIES
+https://tls-cl.cdnz.cl/planetatv2/ngrp:live_all/chunklist_w1972999049_b493000.m3u8
 #EXTINF:-1 group-title="CENTRO" tvg-logo="https://i.ibb.co/rcktk9x/fm-estrella-tv.png",Estrella Tv Santa Fe
 https://59537faa0729a.streamlock.net:443/estrellaproducciones/estrellaproducciones/playlist.m3u8
 #EXTINF:-1 group-title="DOMINICAN REPUBLIC" tvg-logo="https://i.postimg.cc/s2BMXGQ2/MICROVISION-MODIF.png",Microvision 10
