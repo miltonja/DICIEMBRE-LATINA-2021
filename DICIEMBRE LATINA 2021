@@ -2,7 +2,7 @@
 
 #EXTINF:-1 tvg-id="1055" tvg-name="Mega Cine TV" tvg-logo="https://i.postimg.cc/Znh7NwYf/Mega-Cine-TV-esp.png", Mega Cine TV | DO
 https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1221" tvg-name="Cantina TV" tvg-logo="https://i.postimg.cc/nLHKyDqX/CANTINA-TV.png", Cantina TV | VE
+#EXTINF:-1 tvg-id="1221" tvg-name="Cantina TV" tvg-logo="https://i.postimg.cc/5t0WwmfF/CANTINAZO.png", Cantina TV | VE
 https://vcp.myplaytv.com/cantinatv/cantinatv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Undefined" tvg-logo="https://i.postimg.cc/yNFxS8hw/AZTECA-UNO-SEP.png",Azteca Uno (XHJK-TDT) (480p) [Not 24/7]
 http://190.122.96.187:8888/http/002
