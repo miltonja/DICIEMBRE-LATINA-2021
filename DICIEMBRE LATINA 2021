@@ -1,5 +1,12 @@
 #EXTM3U
-
+#EXTINF:-1 tvg-id="1205" tvg-name="Viwix TV Terror" tvg-logo="https://i.postimg.cc/h4V1HXg9/VIWIX-TV-TERROR.png", Viwix TV Terror * | CL
+https://cloudvideo.servers10.com:8081/8206/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="1207" tvg-name="Viwix TV Accion" tvg-logo="https://i.postimg.cc/FKjCHYmX/VIWIX-TV-ACCION.png", Viwix TV Accion * | CL
+https://cloudvideo.servers10.com:8081/8128/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="1206" tvg-name="Viwix TV Series" tvg-logo="https://i.postimg.cc/fRGvGDGt/VIWIX-TV-SERIES.png", Viwix TV Series * | CL
+https://cloudvideo.servers10.com:8081/8208/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="1209" tvg-name="Viwix TV Estrenos" tvg-logo="https://i.postimg.cc/x8HRTdWb/VIWIX-TV-ESTRENOS.png", Viwix TV Estrenos * | CL
+https://cloudvideo.servers10.com:8081/8212/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="1055" tvg-name="Mega Cine TV" tvg-logo="https://i.postimg.cc/Znh7NwYf/Mega-Cine-TV-esp.png", Mega Cine TV | DO
 https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1221" tvg-name="Cantina TV" tvg-logo="https://i.postimg.cc/5t0WwmfF/CANTINAZO.png", Cantina TV | VE
