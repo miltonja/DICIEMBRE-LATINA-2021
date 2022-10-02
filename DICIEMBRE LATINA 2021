@@ -52,16 +52,6 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 https://ss2.domint.net:3200/gdm_str/gdmtv/playlist.m3u8
 #EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.postimg.cc/KvQDLMM1/TV-MAS-CHILE-ESP.png",TVMas Chile
 https://593b04c4c5670.streamlock.net:443/8008/8008/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1205" tvg-name="Viwix TV Terror" tvg-logo="https://i.postimg.cc/h4V1HXg9/VIWIX-TV-TERROR.png", Viwix TV Terror * | CL
-https://cloudvideo.servers10.com:8081/8206/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1206" tvg-name="Viwix TV Series" tvg-logo="https://i.postimg.cc/fRGvGDGt/VIWIX-TV-SERIES.png", Viwix TV Series * | CL
-https://cloudvideo.servers10.com:8081/8208/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1207" tvg-name="Viwix TV Accion" tvg-logo="https://i.postimg.cc/FKjCHYmX/VIWIX-TV-ACCION.png", Viwix TV Accion * | CL
-https://cloudvideo.servers10.com:8081/8128/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1209" tvg-name="Viwix TV Estrenos" tvg-logo="https://i.postimg.cc/x8HRTdWb/VIWIX-TV-ESTRENOS.png", Viwix TV Estrenos * | CL
-https://cloudvideo.servers10.com:8081/8212/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1208" tvg-name="Viwix TV Music" tvg-logo="https://i.postimg.cc/qRWwTKZT/VIWIX-TV-MUSIC.png", Viwix TV Music * | CL
-https://cloudvideo.servers10.com:8081/8210/index.m3u8?PlaylistM3UCL
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/RZBNTMj2/TV-Sur-Canal-9-MODIF.png",CANAL 9 TV SUR HD
 http://tv.ticosmedia.com:1935/TVSUR/TVSUR/chunklist_w2062422029.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-logo="https://sanisidrotv.com/wp-content/uploads/2020/10/logo-san-isidro-tv-png-1-300x221.png",San Isidro TV (360p) [Not 24/7]
