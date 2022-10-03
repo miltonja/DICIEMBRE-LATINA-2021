@@ -11,9 +11,9 @@ https://s2.tvdatta.com:3172/hybrid/play.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1208" tvg-name="Viwix TV Music" tvg-logo="https://i.postimg.cc/qRWwTKZT/VIWIX-TV-MUSIC.png", Viwix TV Music * | CL
 https://s2.tvdatta.com:3548/hybrid/play.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1221" tvg-name="Cantina TV" tvg-logo="https://i.postimg.cc/5t0WwmfF/CANTINAZO.png", Cantina TV | VE
+https://vcp.myplaytv.com/cantinatv/cantinatv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1055" tvg-name="MEGA CINE TV" tvg-logo="https://i.postimg.cc/BbfRX7ws/MEGA-CINE-TV.png", Mega Cine TV * | CL
 https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8?PlaylistM3UCL
-https://vcp.myplaytv.com/cantinatv/cantinatv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Undefined" tvg-logo="https://i.postimg.cc/yNFxS8hw/AZTECA-UNO-SEP.png",Azteca Uno (XHJK-TDT) (480p) [Not 24/7]
 http://190.122.96.187:8888/http/002
 #EXTINF:-1  tvg-logo="https://i.imgur.com/USiqGyp.jpg",Relaxing Rain (720p)
