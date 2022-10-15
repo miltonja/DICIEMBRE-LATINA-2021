@@ -118,6 +118,8 @@ http://livees.cgtn.com/1000e/prog_index.m3u8
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-id="RTEspanol.ru" tvg-logo="https://i.postimg.cc/Jhn6xS3T/RT-America-Logo.png" group-title="NOTICIAS", RT  25.5
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+#EXTINF:-1 group-title="Colombia" tvg-logo="https://memorias.tv/wp-content/uploads/2022/03/cropped-logo-MEMORIAS-TV-png-1.png",Memorias TV
+https://mediacp.us:8081/8022/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Internacionales" tvg-logo="https://i.imgur.com/8ED2nTR.png",CGTN ESPAÑOL | SD | porcelana
 https://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:-1 group-title="Internacionales" tvg-logo="https://i.imgur.com/alsAUUk.png",Francia 24 | HD | Francia
