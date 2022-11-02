@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="WinSportsPlus.co" tvg-logo="https://i.imgur.com/tKDzu9t.png" group-title="Sports",Win Sports+
-http://190.61.41.182:8000/play/a2lo/index.m3u8
+#EXTINF:-1 tvg-id="WinSportsPlus.co" tvg-logo="https://i.imgur.com/tKDzu9t.png" group-title="Sports",Win Sports
+http://fortv.cc:8080/Rock/hastings420/78697
 #EXTINF:-1 tvg-id="1205" tvg-name="Viwix TV Terror" tvg-logo="https://i.postimg.cc/h4V1HXg9/VIWIX-TV-TERROR.png", Viwix TV Terror * | CL
 https://s2.tvdatta.com:3849/hybrid/play.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1207" tvg-name="Viwix TV Accion" tvg-logo="https://i.postimg.cc/FKjCHYmX/VIWIX-TV-ACCION.png", Viwix TV Accion * | CL
